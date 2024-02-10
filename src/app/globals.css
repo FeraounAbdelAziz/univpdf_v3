@@ -1,0 +1,10 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+.TextDecorationNone {
+    color: var(--mantine-color-scheme);
+    text-decoration: none;
+}
+html {
+    scroll-behavior: smooth;
+}
